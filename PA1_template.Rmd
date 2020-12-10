@@ -1,9 +1,11 @@
 ---
 title: "course5_week2_assignment.Rmd"
-output: html_document
+output:
+  html_document:
+    keep_md: yes
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
